@@ -1,5 +1,4 @@
-title: مستندات API
-description: نمایش مستندات پروژه با پشتیبانی از زبان فارسی
-theme: minima
-
+theme: jekyll-theme-cayman
+title: مستندات من
+description: پروژه‌ای برای نمایش API به زبان فارسی
 markdown: kramdown
