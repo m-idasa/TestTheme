@@ -5,6 +5,7 @@ body {
   font-family: "Vazirmatn", Tahoma, sans-serif;
 }
 
-p, h1, h2, h3, h4, h5, h6, li, td, th {
-  unicode-bidi: plaintext;
+p, h1, h3, h4, h5, h6, li, td, th {
+  direction: rtl;
+  text-align: right;
 }
